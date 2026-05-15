@@ -83,7 +83,7 @@ Detected top-performing product categories.
 
 # Screenshots
 
-(Add dashboard screenshots here)
+![Page1].(PowerBi/dasboard_images/Page1 Customer analysis.png)
 
 Future Improvements
 Predictive analytics
