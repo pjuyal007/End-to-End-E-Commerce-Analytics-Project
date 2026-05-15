@@ -82,9 +82,11 @@ Analyzed seasonal revenue growth trends.
 Detected top-performing product categories.
 # Screenshots
 
-![Preview](PowerBi/dashboard_images/Page1Customeranalysis.png)
+![page1_Preview](PowerBi/dashboard_images/Page1_Customer_analysis.png)
+![page_2_preview](PowerBi/dasboard_images/Page2_revenue_trends.png)
+![page_3_preview](PowerBi/dasboard_images/Page3_Product_analysis.png)
 
-Future Improvements
+# Future Improvements
 Predictive analytics
 Customer churn prediction
 Real-time dashboard integration
