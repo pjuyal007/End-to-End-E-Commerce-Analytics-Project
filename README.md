@@ -80,10 +80,9 @@ Profitability analysis
 Identified high-value customer groups contributing major revenue.
 Analyzed seasonal revenue growth trends.
 Detected top-performing product categories.
-
 # Screenshots
 
-![Page1].(PowerBi/dasboard_images/Page1 Customer analysis.png)
+![Preview](PowerBi/dashboard_images/Page1Customeranalysis.png)
 
 Future Improvements
 Predictive analytics
