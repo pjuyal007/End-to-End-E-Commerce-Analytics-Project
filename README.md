@@ -71,6 +71,7 @@ Page 2 — Revenue Trend Analysis
 Monthly revenue
 MoM growth
 Revenue trends over time
+
 Page 3 — Product & Category Analysis
 Top products
 Category revenue
@@ -88,7 +89,9 @@ Detected top-performing product categories.
 
 # Future Improvements
 Predictive analytics
+
 Customer churn prediction
+
 Real-time dashboard integration
 
 
