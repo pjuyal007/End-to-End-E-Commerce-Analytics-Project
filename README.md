@@ -82,9 +82,9 @@ Analyzed seasonal revenue growth trends.
 Detected top-performing product categories.
 # Screenshots
 
-![page1_Preview](PowerBi/dashboard_images/Page1_Customer_analysis.png)
-![page_2_preview](PowerBi/dasboard_images/Page2_revenue_trends.png)
-![page_3_preview](PowerBi/dasboard_images/Page3_Product_analysis.png)
+![Preview](PowerBi/dashboard_images/Page1_Customer_analysis.png)
+![](PowerBi/dasboard_images/Page2_revenue_trends.png)
+![](PowerBi/dasboard_images/Page3_Product_analysis.png)
 
 # Future Improvements
 Predictive analytics
