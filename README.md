@@ -67,6 +67,7 @@ page 1 — Customer Segmentation
 High/Mid/Low value customers
 Revenue by customer type
 Customer distribution
+
 Page 2 — Revenue Trend Analysis
 Monthly revenue
 MoM growth
